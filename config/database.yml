@@ -1,0 +1,23 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: sample_app
+  pool: 5
+  username: daack
+  password: 
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: sample_app
+  pool: 5
+  username: daack
+  password: 
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: sample_app
+  pool: 5
+  username: daack
+  password: 
